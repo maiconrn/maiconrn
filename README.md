@@ -1,53 +1,10 @@
-## Hi there 👋
+## Numa galaxia muito distante
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+![funny-star-wars-gif-of-darth-vader-riding-a-carousel](https://i.chzbgr.com/full/9031980800/h2ECD7C3E/funny-star-wars-gif-of-darth-vader-riding-a-carousel)
 
-*italico* ou _italico_
+👽 Olá, me chamo  Maicon Nicoski!
 
-**Negrito** ou __negrito__
-
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-1. Lista 1
-2. Lista 2
-   1. sublista
-
-   [Texto da imagem](https://cdn.europosters.eu/image/1300/posters/star-wars-darth-vader-i14004.jpg)
-
-
-   ![Texto da imagem](https://cdn.europosters.eu/image/1300/posters/star-wars-darth-vader-i14004.jpg)
-
-
-   `system.out.println();`
-
-   ```system.out.println(); system.out.println();system.out.println();
-   system.out.println();system.out.println();system.out.println(); ```
-
-   > Texto da Citaçoes Citações
-
-   | Cabeçalho 1 | Cabeçalho 2 |
-   |------------ | ------------|
-   | texto1      | texto2      |
-   | texto 3     | texto 4     |
-
-   - [x] Tarefa 1
-     [ ] Tarefa 2  
-
-
-
-
-
-
-
+💬 Construindo uma nova profissão.
 
 
 
