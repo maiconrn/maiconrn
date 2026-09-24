@@ -18,7 +18,7 @@
 | Introdução ao Linux com o Santander | [Certificado](https://hermes.dio.me/certificates/OMG4KVFC.pdf)
 
 -----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![maiconrn GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconrn&show_icons=true&theme=tokyonight)
 
 
 
