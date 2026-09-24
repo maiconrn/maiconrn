@@ -2,9 +2,23 @@
 
 ![funny-star-wars-gif-of-darth-vader-riding-a-carousel](https://i.chzbgr.com/full/9031980800/h2ECD7C3E/funny-star-wars-gif-of-darth-vader-riding-a-carousel)
 
+------------
+
 👽 Olá, me chamo  Maicon Nicoski!
 
 💬 Construindo uma nova profissão.
+
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
+
+-----
+| Cursos | Certificados | 
+|-------- | ------------ 
+| Introdução ao Linux com o Santander | [Certificado](https://hermes.dio.me/certificates/OMG4KVFC.pdf)
+
+-----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
